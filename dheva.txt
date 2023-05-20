@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 thenali ku ellam bayam.apdilam onnum illa
-=======
 thenali ku ellam bayam. Kundi bayam
->>>>>>> 6d2b887e14d4be0615e7551d4c75f78867eb4443
